@@ -18,6 +18,18 @@ Cuando un mismo PRJ incluya **varios servicios o desarrollos diferenciados**, el
 
 En caso de duda sobre la nomenclatura aplicable o sobre cómo identificar un PRJ con varios servicios, deberá consultarse con el **EM correspondiente** antes de crear el repositorio.
 
+## Forma de trabajo
+
+Como criterio general:
+
+1. Los cambios deberán realizarse en **ramas específicas**, evitando trabajar directamente sobre la rama principal.
+2. La integración de cambios deberá realizarse mediante **Pull Request**.
+3. Los commits deberán ser **claros, descriptivos y relacionados con el cambio realizado**.
+4. Se deberá mantener el repositorio ordenado y eliminar ramas o recursos obsoletos cuando corresponda.
+5. **No deberán almacenarse contraseñas, tokens, certificados, claves privadas ni ningún otro tipo de secreto o información sensible.**
+
+Ante cualquier duda relacionada con la creación, nomenclatura, organización o estructura de un repositorio, consultar con el **EM correspondiente**.
+
 ## Contenido mínimo del repositorio
 
 Cada repositorio deberá incluir, como mínimo:
