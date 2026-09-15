@@ -27,6 +27,7 @@ Cada repositorio deberá incluir, como mínimo:
 - `.gitignore` adaptado a las tecnologías utilizadas.
 
 La documentación específica de cada desarrollo deberá mantenerse dentro de su correspondiente repositorio y actualizarse cuando se produzcan cambios relevantes.
+
 Ejemplo:
 # PRJ-XXXX - Nombre del desarrollo
 
