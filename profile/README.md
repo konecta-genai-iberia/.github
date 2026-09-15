@@ -27,6 +27,60 @@ Cada repositorio deberá incluir, como mínimo:
 - `.gitignore` adaptado a las tecnologías utilizadas.
 
 La documentación específica de cada desarrollo deberá mantenerse dentro de su correspondiente repositorio y actualizarse cuando se produzcan cambios relevantes.
+Ejemplo:
+# PRJ-XXXX - Nombre del desarrollo
+
+## Descripción
+
+Breve descripción del desarrollo, su objetivo y el problema que resuelve.
+
+## Alcance
+
+Indicar de forma resumida qué incluye este repositorio y, si aplica, qué servicio o acción de KITT representa.
+
+**PRJ:** `PRJ-XXXX`  
+**Acción / Servicio:** `ACT-XXXX`  
+**Cliente / Proyecto:** `Nombre`  
+**EM:** `Nombre o equipo responsable`
+
+## Arquitectura
+
+Breve descripción de los principales componentes del desarrollo.
+
+Por ejemplo:
+
+- API / Backend
+- Frontend
+- Integraciones
+- Servicios GenAI
+- Bases de datos
+- Servicios externos
+
+## Requisitos
+
+Indicar los requisitos necesarios para ejecutar el proyecto.
+
+Ejemplo:
+
+- Python 3.x
+- Node.js
+- Docker
+- Acceso a servicios internos necesarios
+
+## Puesta en marcha
+
+Pasos mínimos para ejecutar el proyecto en local.
+
+```bash
+# Ejemplo
+git clone <repository>
+cd <repository>
+
+# Instalación de dependencias
+...
+
+# Ejecución
+...
 
 ## Forma de trabajo
 
